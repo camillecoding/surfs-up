@@ -4,11 +4,9 @@ This project creates an app to track weather data in Oahu, Hawaii. My client wan
 ## Results ##
 I used Python, Pandas, and SQLAlchemy to pull data from an SQLite file that captured temperature and other weather data from Oahu. I generated summary statistics from this data to provide my client summer weather data from June and winter weather data from December. 
  
-(June)
-<img width="154" alt="Screen Shot 2022-02-15 at 7 20 41 PM" src="https://user-images.githubusercontent.com/95657458/154172335-99462dc4-c7c7-4661-962d-907d3fa0c99b.png">
+(June)<img width="151" alt="Screen Shot 2022-02-15 at 7 50 54 PM" src="https://user-images.githubusercontent.com/95657458/154175130-7908ffb3-dbb8-4f12-870a-a28009182b4e.png">
 
-(December)
-<img width="141" alt="Screen Shot 2022-02-15 at 7 21 12 PM" src="https://user-images.githubusercontent.com/95657458/154172382-4866f679-796a-491d-8b85-34bfb482bc89.png">
+(December)<img width="142" alt="Screen Shot 2022-02-15 at 7 51 12 PM" src="https://user-images.githubusercontent.com/95657458/154175165-19f97e9a-9864-432d-80ee-1ffa74c8669c.png">
 
 There are three major differences between these statistics from June and December.
 * The minimum temperature is over 10 degrees lower in December than in June.
